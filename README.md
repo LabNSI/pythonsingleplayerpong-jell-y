@@ -2,7 +2,8 @@
 Voici le résultat de mon travail sur une version Python de Pong.
 
 
-![](myPong.png)
+![el pong](https://github.com/LabNSI/pythonsingleplayerpong-jell-y/assets/146345480/25698b28-c4d2-4625-93bb-67d2250d9fc4)
+
 
 ## Activité
 
