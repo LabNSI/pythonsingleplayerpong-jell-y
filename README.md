@@ -9,6 +9,7 @@ Cette version contient :
 * Un compteur de points
 * Une balle accélérant le plus de points on récolte
 * Un écran de game over affichant le total de points
+ ![el ping](https://github.com/LabNSI/pythonsingleplayerpong-jell-y/assets/146345480/16add7b6-7813-4959-80c0-0674fb9ed4f1)
 * Un paddle qui change de couleur
 
 [(Page de l'activité)](http://silanus.fr/nsi/premiere/pong/pong.html)
