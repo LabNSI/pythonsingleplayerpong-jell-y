@@ -19,3 +19,7 @@ Le développement du jeu est basé sur l'utilisation de la bibliothèque *Pygame
 ## Activité
 
 [Page de l'activité](http://silanus.fr/nsi/premiere/pong/pong.html)
+
+##Python Pong
+
+Voici le résultat de mon travail sur un Pong sur Python.
